@@ -7,7 +7,7 @@ Projeto desenvolvido com base no curso fornecido pela Digital Innovation One.
 <a href="https://start.spring.io/" target="_blank"><p>• Spring</p></a>
 <a href="https://cli.angular.io/"  target="_blank"><p>• Angular</p></a>
 
-  <h4>Objeto JSON (Usado no Postman)</h4>
+  <h4>Objeto JSON (Usado no <a href="https://www.postman.com/"  target="_blank"><p>Postman</p></a>)</h4>
   
 ````
 	{
