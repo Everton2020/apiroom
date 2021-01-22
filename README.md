@@ -1,7 +1,7 @@
 # CLIENTE ROOM
 Projeto desenvolvido com base no curso fornecido pela Digital Innovation One. 
-<div>
-🛠 Tecnologias As seguintes ferramentas foram usadas na construção do projeto: 
+
+<div>🛠 Tecnologias As seguintes ferramentas foram usadas na construção do projeto:</div>
 
  <center>• Java • Spring Boot • Angular</center> 
     
