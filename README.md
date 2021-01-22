@@ -1,4 +1,4 @@
-# CLIENTE ROOM
+# CLIENT ROOM
 Projeto desenvolvido com base no curso fornecido pela Digital Innovation One
 
 <div>🛠 Tecnologias As seguintes ferramentas foram usadas na construção do projeto:</div>
