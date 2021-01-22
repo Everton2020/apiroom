@@ -1,5 +1,5 @@
 # CLIENTE ROOM
-Projeto desenvolvido com base no curso fornecido pela <a href="https://cli.angular.io/"  target="_blank"><p>DIO</p></a>
+Projeto desenvolvido com base no curso fornecido pela Digital Innovation One
 
 <div>🛠 Tecnologias As seguintes ferramentas foram usadas na construção do projeto:</div>
 
